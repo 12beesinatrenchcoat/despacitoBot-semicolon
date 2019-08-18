@@ -1,0 +1,14 @@
+{
+  "name": "despacitobot-semicolon",
+  "version": "0.0.1",
+  "description": "a discord bot with despacito memes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@AndzCLiv3#7664",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
