@@ -3,8 +3,6 @@ const Discord = require("discord.js");
 const despacito = require("./despacito.js");
 const client = new Discord.Client();
 
-const token = "NjEyNDY3NjgyNTYxNzUzMDg4.XVi3qQ.P8KdeZXXtSwT61eM9-QKP2w8zZA";
-
 client.on("ready", () =>{
     console.log("Bot online! 👌")
 });
@@ -28,4 +26,4 @@ client.on("message", msg=>{
     }
 });
 
-client.login(token);
+client.login(process.env.BOT_TOKEN);

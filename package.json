@@ -4,11 +4,12 @@
   "description": "a discord bot with despacito memes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "@AndzCLiv3#7664",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^11.5.1"
+    "discord.js": "^11.5.1",
+    "request": "2.81.0"
   }
 }
