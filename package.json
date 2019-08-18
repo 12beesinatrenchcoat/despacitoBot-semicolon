@@ -11,5 +11,13 @@
   "dependencies": {
     "discord.js": "^11.5.1",
     "request": "2.81.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyThePie/despacitoBot-semicolon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AndyThePie/despacitoBot-semicolon/issues"
+  },
+  "homepage": "https://github.com/AndyThePie/despacitoBot-semicolon#readme"
 }
