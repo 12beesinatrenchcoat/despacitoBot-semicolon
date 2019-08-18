@@ -98,7 +98,7 @@ module.exports = {
             .setColor("#FF0000")
             .setTitle(randmem.title)
             .setDescription(randmem.description)
-            .setAuthor(randmem.author, randmem.channelavatar, randmem.channelurl)
+            .setAuthor(randmem.author)
             .setURL("https://youtu.be/" + randmem.id)
             .setThumbnail("https://img.youtube.com/vi/" + randmem.id + "/hqdefault.jpg")
             .setFooter("(item number " + itemnum + " of " + maymays.length + ")");
