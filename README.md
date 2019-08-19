@@ -2,9 +2,9 @@
 
 a bad discord bot that replies to people with despacito videos whenever they say "this is so sad play despacito". a sort of personal project of my own to slowly learn how discord bot-making works.
 
-*this is the master branch. you can find the dev branch [here](https://github.com/AndyThePie/despacitoBot-semicolon/tree/dev).*
+*this is the dev branch. you can find the master branch [here](https://github.com/AndyThePie/despacitoBot-semicolon/).*
 
-*(the master branch is stable and live, the dev branch is for testing and all the sort.)*
+*(this dev branch is where all the larger future updates will be before they get merged into the master branch.)*
 
 ## dependencies
 
