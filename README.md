@@ -25,7 +25,7 @@ if you want to. (my knowledge is very limited...)
 
 
 
-### this readme annoys me, why don't you capitalize anything?
+## this readme annoys me, why don't you capitalize anything?
 
 i like lowercase letters.
 

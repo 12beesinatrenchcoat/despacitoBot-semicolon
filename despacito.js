@@ -33,14 +33,14 @@ const maymays =[
     },{
         title: "Shovel Knightspacito",
         description: "absolutely groundbreaking (2018).",
-        author: "UUN4 from SiIvagunner",
+        author: "SiIvagunner (UUN4)",
         channelavatar: siivagunner.avatar,
         channelurl: siivagunner.url,
         id: "BoOjcBiZu0I"
     },{
         title: "Take on Despacito",
         description: "ba ba ba ba ba ba",
-        author:"Knight of Games from SiIvagunner",
+        author:"SiIvagunner (Knight of Games)",
         channelavatar: siivagunner.avatar,
         channelurl: siivagunner.url,
         id: "9BdsS3jK7no"
