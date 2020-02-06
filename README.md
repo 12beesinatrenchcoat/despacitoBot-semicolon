@@ -6,6 +6,8 @@ a bad discord bot that replies to people with despacito videos whenever they say
 i no longer have the free time to develop this bot. on top of that, i simply... don't want to develop this bot. for now, this bot is done for. i'll make a proper bot in the future.
 and also from now on this is under the unlicense.
 
+**the remainder of the README is below.**
+
 *(the [master branch](https://github.com/AndyThePie/despacitoBot-semicolon) is stable and live, the [dev branch](https://github.com/AndyThePie/despacitoBot-semicolon/tree/dev) is for testing and all the sort.)*
 
 
